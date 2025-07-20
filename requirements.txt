@@ -6,3 +6,4 @@ numpy
 truefoundry
 pandas
 python-multipart
+starlette
