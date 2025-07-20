@@ -11,15 +11,7 @@ from pydantic import BaseModel, Field
 from dotenv import load_dotenv
 from fastapi.middleware.cors import CORSMiddleware
 
-app = FastAPI()
 
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],  # For testing; replace with your frontend origin in production
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
 
 load_dotenv()
 
@@ -77,6 +69,14 @@ async def lifespan(app: FastAPI):
 app = FastAPI(
     lifespan=lifespan,
     root_path=os.getenv("TFY_SERVICE_ROOT_PATH", "")
+)
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # For testing; replace with your frontend origin in production
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 # Root endpoint
