@@ -1,0 +1,103 @@
+Pest Name,Pesticides,Crop,Pesticide Type
+rice leaf roller,"Chlorpyrifos, Cypermethrin, Indoxacarb",Rice,Chemical
+rice leaf caterpillar,"Cartap hydrochloride, Chlorantraniliprole, Emamectin benzoate",Rice,Biopesticide
+paddy stem maggot,"Carbofuran, Chlorpyrifos, Diazinon",Rice,Chemical
+asiatic rice borer,"Emamectin benzoate, Fipronil, Chlorantraniliprole",Rice,Biopesticide
+yellow rice borer,"Chlorpyrifos, Neonicotinoids, Fipronil",Rice,Chemical
+rice gall midge,"Cartap hydrochloride, Chlorpyrifos, Fipronil",Rice,Chemical
+Rice Stemfly,"Neonicotinoids, Fipronil, Imidacloprid",Rice,Chemical
+brown plant hopper,"Imidacloprid, Chlorpyrifos, Buprofezin, Thiamethoxam",Rice,Chemical
+white backed plant hopper,"Imidacloprid, Thiamethoxam, Chlorpyrifos",Rice,Chemical
+small brown plant hopper,"Imidacloprid, Chlorpyrifos, Acephate",Rice,Chemical
+rice water weevil,"Carbofuran, Chlorpyrifos, Imidacloprid",Rice,Chemical
+rice leafhopper,"Imidacloprid, Thiamethoxam, Chlorpyrifos",Rice,Chemical
+grain spreader thrips,"Acephate, Imidacloprid, Thiamethoxam",Rice,Chemical
+rice shell pest,"Cartap, Methomyl, Carbaryl",Rice,Chemical
+grub,"Chlorpyrifos, Imidacloprid, Thiamethoxam",General,Chemical
+mole cricket,"Bifenthrin, Carbaryl, Imidacloprid",General,Chemical
+wireworm,"Chlorpyrifos, Imidacloprid, Fipronil",General,Chemical
+white margined moth,"Chlorantraniliprole, Spinosad, Bacillus thuringiensis",General,Biopesticide
+black cutworm,"Chlorantraniliprole, Flubendiamide, Emamectin benzoate",General,Biopesticide
+large cutworm,"Bacillus thuringiensis, Chlorpyrifos, Lambda-cyhalothrin",General,Biopesticide
+yellow cutworm,"Chlorpyrifos, Methomyl, Carbaryl",General,Chemical
+red spider,"Abamectin, Bifenazate, Spiromesifen",General,Biopesticide
+corn borer,"Chlorpyrifos, Emamectin benzoate, Lambda-cyhalothrin, Spinosad",General,Biopesticide
+army worm,"Chlorpyrifos, Lambda-cyhalothrin, Bifenthrin",General,Chemical
+aphids,"Imidacloprid, Acetamiprid, Thiamethoxam",General,Chemical
+Potosiabre vitarsis,"Chlorantraniliprole, Emamectin benzoate, Spinosad",General,Biopesticide
+peach borer,"Chlorpyrifos, Imidacloprid, Lambda-cyhalothrin",General,Chemical
+english grain aphid,"Imidacloprid, Lambda-cyhalothrin, Pyrethroids",Wheat,Chemical
+green bug,"Carbaryl, Malathion, Pyrethroids",Wheat,Chemical
+bird cherry-oataphid,"Imidacloprid, Thiamethoxam, Dinotefuran, Acetamiprid",Wheat,Chemical
+wheat blossom midge,"Chlorpyrifos, Imidacloprid, Lambda-cyhalothrin",Wheat,Chemical
+penthaleus major,"Chlorpyrifos, Fenpropathrin, Lambda-cyhalothrin",Wheat,Chemical
+longlegged spider mite,"Abamectin, Bifenazate, Chlorfenapyr",Wheat,Biopesticide
+wheat phloeothrips,"Imidacloprid, Thiamethoxam, Chlorpyrifos",Wheat,Chemical
+wheat sawfly,"Chlorpyrifos, Acetamiprid, Imidacloprid",Wheat,Chemical
+cerodonta denticornis,"Imidacloprid, Thiacloprid, Thiamethoxam, Dinotefuran",Wheat,Chemical
+beet fly,"Carbaryl, Methomyl, Dimethoate",Beet,Chemical
+flea beetle,"Imidacloprid, Thiamethoxam, Pyrethroids",Beet,Chemical
+cabbage army worm,"Bacillus thuringiensis, Spinosad, Methomyl, Chlorantraniliprole",Beet,Biopesticide
+beet army worm,"Bacillus thuringiensis, Methoxyfenozide, Spinosad",Beet,Biopesticide
+Beet spot flies,"Dimethoate, Chlorpyrifos, Carbaryl",Beet,Chemical
+meadow moth,"Bacillus thuringiensis, Chlorpyrifos, Lambda-cyhalothrin",Beet,Biopesticide
+beet weevil,"Chlorpyrifos, Carbaryl, Diazinon",Beet,Chemical
+sericaorient alismots chulsky,"Thiamethoxam, Clothianidin, Imidacloprid",General,Chemical
+alfalfa weevil,"Chlorpyrifos, Cyfluthrin, Carbaryl",Alfalfa,Chemical
+flax budworm,"Chlorpyrifos, Methomyl, Pyrethroids",Alfalfa,Chemical
+alfalfa plant bug,"Imidacloprid, Lambda-cyhalothrin, Chlorpyrifos",Alfalfa,Chemical
+tarnished plant bug,"Imidacloprid, Lambda-cyhalothrin, Methomyl",Alfalfa,Chemical
+Locustoidea,"Chlorpyrifos, Deltamethrin, Fenitrothion",General,Chemical
+lytta polita,"Carbaryl, Diazinon, Malathion",General,Chemical
+legume blister beetle,"Carbaryl, Chlorpyrifos, Lambda-cyhalothrin",General,Chemical
+blister beetle,"Carbaryl, Malathion, Pyrethrin, Permethrin",General,Organic
+therioaphis maculata Buckton,"Imidacloprid, Acetamiprid, Thiamethoxam",Alfalfa,Chemical
+odontothrips loti,"Abamectin, Emamectin benzoate, Spinosad",Alfalfa,Biopesticide
+Thrips,"Spinosad, Abamectin, Imidacloprid",Alfalfa,Biopesticide
+alfalfa seed chalcid,"Azadirachtin, Imidacloprid, Spinosad",Alfalfa,Organic
+Pieris canidia,"Bacillus thuringiensis, Cypermethrin, Neem oil",General,Organic
+Apolygus lucorum,"Lambda-cyhalothrin, Chlorpyrifos, Imidacloprid",General,Chemical
+Limacodidae,"Bacillus thuringiensis, Chlorpyrifos, Carbaryl",General,Biopesticide
+Viteus vitifoliae,"Pyrethroids, Organophosphates, Neonicotinoids",Grapevine,Chemical
+Colomerus vitis,"Bifenazate, Fenpyroximate, Abamectin, Hexythiazox",Grapevine,Biopesticide
+Brevipoalpus lewisi McGregor,"Abamectin, Bifenazate, Fenpyroximate, Spiromesifen",Grapevine,Biopesticide
+oides decempunctata,"Abamectin, Chlorfenapyr, Pyridaben",Grapevine,Biopesticide
+Polyphagotars onemus latus,"Acetamiprid, Bifenazate, Spiromesifen",Grapevine,Chemical
+Pseudococcus comstocki Kuwana,"Acetamiprid, Bifenthrin, Imidacloprid",Grapevine,Chemical
+parathrene regalis,"Bacillus thuringiensis, Chlorpyrifos, Imidacloprid",Grapevine,Biopesticide
+Ampelophaga,"Chlorpyrifos, Methoxyfenozide, Spinosad",Grapevine,Biopesticide
+Lycorma delicatula,"Dinotefuran, Imidacloprid, Thiamethoxam",Grapevine,Chemical
+Xylotrechus,"Methoxyfenozide, Chlorpyrifos, Fipronil",Grapevine,Chemical
+Cicadella viridis,"Imidacloprid, Thiacloprid, Dinotefuran, Thiamethoxam",General,Chemical
+Miridae,"Buprofezin, Clothianidin, Imidacloprid",General,Chemical
+Trialeurodes vaporariorum,"Neonicotinoids, Pyrethroids, Imidacloprid",General,Chemical
+Erythroneura apicalis,"Carbaryl, Diazinon, Malathion",General,Chemical
+Papilio xuthus,"Bacillus thuringiensis, Spinosad, Methomyl",Citrus,Biopesticide
+Panonchus citri McGregor,"Bifenazate, Spirodiclofen, Pyridaben",Citrus,Chemical
+Phyllocoptes oleiverus ashmead,"Bifenazate, Abamectin, Spiromesifen",Citrus,Biopesticide
+Icerya purchasi Maskell,"Imidacloprid, Dinotefuran, Acetamiprid",Citrus,Chemical
+Unaspis yanonensis,"Imidacloprid, Chlorpyrifos, Abamectin",Citrus,Biopesticide
+Ceroplastes rubens,"Imidacloprid, Acetamiprid, Buprofezin, Thiamethoxam",Citrus,Chemical
+Chrysomphalus aonidum,"Imidacloprid, Abamectin, Acetamiprid, Buprofezin",Citrus,Biopesticide
+Parlatoria zizyphus Lucus,"Chlorpyrifos, Imidacloprid, Spirotetramat",Citrus,Chemical
+Nipaecoccus vastalor,"Acetamiprid, Imidacloprid, Dinotefuran",Citrus,Chemical
+Aleurocanthus spiniferus,"Imidacloprid, Acetamiprid, Chlorpyrifos",Citrus,Chemical
+Tetradacus c Bactrocera minax,"Malathion, Spinosad, Imidacloprid",General,Biopesticide
+Dacus dorsalis(Hendel),"Malathion, Diazinon, Fenthion",General,Chemical
+Bactrocera tsuneonis,"Spinosad, Malathion, Dimethoate",General,Biopesticide
+Prodenia litura,"Chlorantraniliprole, Emamectin benzoate, Spinosad",General,Biopesticide
+Adristyrannus,"Acephate, Malathion, Permethrin",General,Chemical
+Phyllocnistis citrella Stainton,"Abamectin, Emamectin benzoate, Spinosad",Citrus,Biopesticide
+Toxoptera citricidus,"Imidacloprid, Thiamethoxam, Chlorpyrifos",Citrus,Chemical
+Toxoptera aurantii,"Imidacloprid, Thiamethoxam, Chlorpyrifos",Citrus,Chemical
+Aphis citricola Vander Goot,"Imidacloprid, Thiacloprid, Thiamethoxam",Citrus,Chemical
+Scirtothrips dorsalis Hood,"Spinosad, Abamectin, Imidacloprid",Citrus,Biopesticide
+Dasineura sp,"Imidacloprid, Acephate, Chlorpyrifos",General,Chemical
+Lawana imitata Melichar,"Imidacloprid, Buprofezin, Thiamethoxam",General,Chemical
+Salurnis marginella Guerr,"Methomyl, Chlorpyrifos, Carbaryl",General,Chemical
+Deporaus marginatus Pascoe,"Carbaryl, Chlorpyrifos, Imidacloprid",General,Chemical
+Chlumetia transversa,"Imidacloprid, Chlorpyrifos, Cypermethrin, Acetamiprid",General,Chemical
+Mango flat beak leafhopper,"Imidacloprid, Thiamethoxam, Dinotefuran",Mango,Chemical
+Rhytidodera bowrinii white,"Acephate, Imidacloprid, Methomyl",General,Chemical
+Sternochetus frigidus,"Chlorpyrifos, Carbaryl, Imidacloprid",Mango,Chemical
+Cicadellidae,"Imidacloprid, Thiacloprid, Dinotefuran, Thiamethoxam",General,Chemical
